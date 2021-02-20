@@ -15,14 +15,14 @@ These tilesets go over the Puget Sound region in Washington. The data layer uses
 
 ## Tile 2 - Puget Sound Bus Stop Data
 ![Data](img/2_data.png)
-- This is a data layer that shows the bus stops surrounding the Puget Sound region. Font used is Roboto Mono
+- This is a data layer that shows the bus stops surrounding the Puget Sound region. Each green point represents a bus stop. Font used is Roboto Mono
 - The area is focused in on the Puget Sound region.
 - Min zoom of 10
 - Max zoom of 14
 
 ## Tile 3 - Puget Sound Bus Stops With Basemap
 ![Basemap and Data](img/3_basemap_data.png)
-- This uses the data layer containing bus stops and a modified basemap to show the bus stops around Puget Sound. Font used is Roboto Mono.
+- This uses the data layer containing bus stops and a modified basemap to show the bus stops around Puget Sound. Green is used for the bus stop points to contrast with the red lines representing roads. Font used is Roboto Mono.
 - The area is focused in on the Puget Sound region.
 - Min zoom of 10
 - Max zoom of 14
