@@ -3,6 +3,7 @@
 These tilesets go over the Puget Sound region in Washington. The data layer uses bus stop data from [King County GIS Open Data](https://gis-kingcounty.opendata.arcgis.com/datasets/transit-stops-for-king-county-metro-transitstop-point). I wanted to map out bus stop data because I primarily traveled via transit throughout the Puget Sound pre-COVID. These map tiles give an idea of the region that I traveled throughout my early university years.
 
 [Link to map](https://jcorille-21.github.io/map_tilesets/)
+
 *By Jerome Orille | Winter 2021*
 
 ## Tile 1 - Basemap
